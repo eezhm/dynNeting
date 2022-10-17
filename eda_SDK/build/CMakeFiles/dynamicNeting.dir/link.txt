@@ -1,1 +1,0 @@
-/usr/bin/c++   -O3 -Wall -std=c++11  -rdynamic CMakeFiles/dynamicNeting.dir/dynamicNeting.cpp.o  -o /home/eda220105/dynNeting/eda_SDK/bin/dynamicNeting 

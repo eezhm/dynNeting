@@ -1,7 +1,0 @@
-FPGA.number : 2
-unit.type : single
-unit.max_int : 4
-unit.ext_conn.num : 200
-unit.int_conn.num : 0
-unit.ext_conn.max_dist : 1
-

@@ -1,8 +1,0 @@
-FPGA.number : 8
-unit.type : quad
-unit.max_int : 8
-unit.ext_conn.num : 800
-unit.int_conn.num : 600
-unit.ext_conn.max_dist : 2
-
-fpga.d : g29 g30

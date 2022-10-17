@@ -1,9 +1,0 @@
-FPGA.number : 2
-unit.type : dual
-unit.max_int : 12
-unit.ext_conn.num : 600
-unit.int_conn.num : 800
-unit.ext_conn.max_dist : 3
-
-fpga.a : g0
-fpga.b : g6 g20
